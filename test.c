@@ -1,5 +1,8 @@
 #include<stdio.h>
 int main(void){
-printf("test.c \n");
-return 0; 
+	printf("change code 1\n");
+
+	printf("change code 2\n");
+	
+	return 0; 
 }
